@@ -29,7 +29,7 @@ async def voice_endpoint(file: UploadFile = File(...)):
     print("\nUser:", transcript)
     print("Agent:", manager.active_agent)
     print("Response:", reply_text)
-    print("--------------------------------------------------")
+    print("-----------------------------------------------------")
 
     return JSONResponse({
         "transcript": transcript,
