@@ -21,7 +21,7 @@ pip install -r req.txt
 ```bash
 OpenAI="yourKey"
 ```
-API Key is - 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
+API Key is in the email.
 
 ## Running the APP 
 ## Start the server 
