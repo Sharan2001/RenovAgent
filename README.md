@@ -30,7 +30,7 @@ uvicorn main:app --reload
 ```
 Open browser at: http://127.0.0.1:8000
 
-![Project Structure](images/screenshot.png)
+![Project Structure](screenshot.png)
 
 UI:
   • Has the active agent name.
