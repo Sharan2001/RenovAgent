@@ -1,7 +1,7 @@
 # SETUP
 Clone the repo.
 ```bash
-git clone [https://github.com/yourusername/RenovAgent.git](https://github.com/Sharan2001/RenovAgent.git)
+git clone https://github.com/Sharan2001/RenovAgent.git
 cd RenovAgent
 ```
 
