@@ -30,21 +30,7 @@ uvicorn main:app --reload
 ```
 Open browser at: http://127.0.0.1:8000
 
-Project Structure
-RenovAgent/
-├── main.py                 # Backend
-├── static/
-│   └── index.html          # Frontend UI
-├── agents/
-│   ├── bob.py              # Bob agent logic
-│   └── alice.py            # Alice agent logic
-├── services/
-│   ├── stt.py              # STT (Whisper) functions
-│   ├── tts.py              # TTS functions
-│   └── llm.py              # LLM calls
-├── conversation.py         # ConversationManager logic
-├── requirements.txt
-└── README.md
+![Project Structure](images/screenshot.png)
 
 UI:
   • Has the active agent name.
